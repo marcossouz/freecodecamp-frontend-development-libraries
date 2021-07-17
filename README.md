@@ -8,9 +8,9 @@ https://www.freecodecamp.org/learn/front-end-libraries/
 # Content 
 
 - [ ] 1. Bootstrap
-  - [ ] Use Responsive Design with Bootstrap Fluid Containers
-  - [ ] Make Images Mobile Responsive
-  - [ ] Center Text with Bootstrap
+  - [x] Use Responsive Design with Bootstrap Fluid Containers
+  - [x] Make Images Mobile Responsive
+  - [x] Center Text with Bootstrap
   - [ ] Create a Bootstrap Button
   - [ ] Create a Block Element Bootstrap Button
   - [ ] Taste the Bootstrap Button Color Rainbow
