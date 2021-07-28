@@ -14,7 +14,7 @@ https://www.freecodecamp.org/learn/front-end-libraries/
   - [x] Create a Bootstrap Button
   - [x] Create a Block Element Bootstrap Button
   - [x] Taste the Bootstrap Button Color Rainbow
-  - [ ] Call out Optional Actions with btn-info
+  - [x] Call out Optional Actions with btn-info
   - [ ] Warn Your Users of a Dangerous Action with btn-danger
   - [ ] Use the Bootstrap Grid to Put Elements Side By Side
   - [ ] Ditch Custom CSS for Bootstrap
