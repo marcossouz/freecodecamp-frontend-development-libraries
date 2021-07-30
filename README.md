@@ -5,9 +5,9 @@ In the Front End Libraries Certification, you'll learn how to style your site qu
 Later, you'll build a shopping cart and other applications to learn how to create powerful Single Page Applications (SPAs) with React and Redux.
 https://www.freecodecamp.org/learn/front-end-libraries/
 
-# Content 
+# Content (142)
 
-- [ ] 1. Bootstrap
+- [ ] 1. Bootstrap (31)
   - [x] Use Responsive Design with Bootstrap Fluid Containers
   - [x] Make Images Mobile Responsive
   - [x] Center Text with Bootstrap
@@ -39,7 +39,7 @@ https://www.freecodecamp.org/learn/front-end-libraries/
   - [ ] Give Each Element a Unique id
   - [ ] Label Bootstrap Buttons
   - [ ] Use Comments to Clarify Code
-- [ ] 2. jQuery
+- [ ] 2. jQuery (18)
   - [ ] Learn How Script Tags and Document Ready Work
   - [ ] Target HTML Elements with Selectors Using jQuery
   - [ ] Target Elements by Class Using jQuery
@@ -58,7 +58,7 @@ https://www.freecodecamp.org/learn/front-end-libraries/
   - [ ] Target a Specific Child of an Element Using jQuery
   - [ ] Target Even Elements Using jQuery
   - [ ] Use jQuery to Modify the Entire Page
-- [ ] 3. SASS
+- [ ] 3. SASS (9)
   - [ ] Store Data with Sass Variables
   - [ ] Nest CSS with Sass
   - [ ] Create Reusable CSS with Mixins
@@ -68,7 +68,7 @@ https://www.freecodecamp.org/learn/front-end-libraries/
   - [ ] Apply a Style Until a Condition is Met with @while
   - [ ] Split Your Styles into Smaller Chunks with Partials
   - [ ] Extend One Set of CSS Styles to Another Element
-- [ ] 4. React
+- [ ] 4. React (47)
   - [ ] Create a Simple JSX Element
   - [ ] Create a Complex JSX Element
   - [ ] Add Comments in JSX
@@ -116,7 +116,7 @@ https://www.freecodecamp.org/learn/front-end-libraries/
   - [ ] Give Sibling Elements a Unique Key Attribute
   - [ ] Use Array.filter() to Dynamically Filter an Array
   - [ ] Render React on the Server with renderToString
-- [ ] 5. Redux
+- [ ] 5. Redux (17)
   - [ ] Create a Redux Store
   - [ ] Get State from the Redux Store
   - [ ] Define a Redux Action
@@ -134,7 +134,7 @@ https://www.freecodecamp.org/learn/front-end-libraries/
   - [ ] Use the Spread Operator on Arrays
   - [ ] Remove an Item from an Array
   - [ ] Copy an Object with Object.assign
-- [ ] 6. React and Redux
+- [ ] 6. React and Redux (10)
   - [ ] Getting Started with React Redux
   - [ ] Manage State Locally First
   - [ ] Extract State Logic to Redux
@@ -145,13 +145,13 @@ https://www.freecodecamp.org/learn/front-end-libraries/
   - [ ] Connect Redux to the Messages App
   - [ ] Extract Local State into Redux
   - [ ] Moving Forward From Here
-- [ ] 7. Front End Development Libraries Projects
+- [ ] 7. Front End Development Libraries Projects (5)
   - [ ] Build a Random Quote Machine
   - [ ] Build a Markdown Previewer
   - [ ] Build a Drum Machine
   - [ ] Build a JavaScript Calculator
   - [ ] Build a 25 + 5 Clock
-- [ ] 8. Claim Your Certification
+- [ ] 8. Claim Your Certification (5)
   - [ ] Accept our Academic Honesty Policy
   - [ ] Set your profile settings to public
   - [ ] Set your certification settings to public
