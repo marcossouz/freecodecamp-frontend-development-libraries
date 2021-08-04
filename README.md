@@ -17,7 +17,7 @@ https://www.freecodecamp.org/learn/front-end-libraries/
   - [x] Call out Optional Actions with btn-info
   - [x] Warn Your Users of a Dangerous Action with btn-danger
   - [x] Use the Bootstrap Grid to Put Elements Side By Side
-  - [ ] Ditch Custom CSS for Bootstrap
+  - [x] Ditch Custom CSS for Bootstrap
   - [ ] Use a span to Target Inline Elements
   - [ ] Create a Custom Heading
   - [ ] Add Font Awesome Icons to our Buttons
