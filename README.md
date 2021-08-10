@@ -19,7 +19,7 @@ https://www.freecodecamp.org/learn/front-end-libraries/
   - [x] Use the Bootstrap Grid to Put Elements Side By Side
   - [x] Ditch Custom CSS for Bootstrap
   - [x] Use a span to Target Inline Elements
-  - [ ] Create a Custom Heading
+  - [x] Create a Custom Heading
   - [ ] Add Font Awesome Icons to our Buttons
   - [ ] Add Font Awesome Icons to all of our Buttons
   - [ ] Responsively Style Radio Buttons
